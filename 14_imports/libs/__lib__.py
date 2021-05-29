@@ -5,10 +5,10 @@
 """
 
 
-# from ..libs import __inti__
+# from ..libs import __init__
 
 def main():
-    # print(__inti__)  # gives an error as the main dir has no parent package
+    # print(__init__)  # gives an error as the main dir has no parent package
     return f"From {__name__}.py"
 
 
