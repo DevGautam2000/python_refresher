@@ -30,7 +30,7 @@ class Guitar:
         return "Hurray!"
 
     def __str__(self):
-        return f"{self.customer_name} your booking for {self.guitar_type} is confirmed! {self.static_method()}"
+        return f"{self.customer_name} your booking for {self.guitar_type} is confirmed! {Guitar.static_method()}"
 
 
 def main():
