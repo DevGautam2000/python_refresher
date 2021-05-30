@@ -1,1 +1,1 @@
-# A complete python_refresher foro backend development
+# A complete python_refresher for backend development
