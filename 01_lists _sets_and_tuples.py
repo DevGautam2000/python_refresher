@@ -8,4 +8,4 @@ listt = ["one", "two"]  # is mutable
 
 tuplee = ("one", "two")  # is immutable
 
-sett = {"one", "two"}  # is immutable but does not keep order
+sett = {"one", "two"}  # is mutable but does not keep order
